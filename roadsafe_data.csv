@@ -1,0 +1,13 @@
+driver_state,speed,road_condition,weather,traffic,distance,risk_score,safe_speed
+Alert,40,Dry,Clear,Low,40,0,40
+Alert,60,Dry,Clear,Medium,30,10,60
+Alert,80,Wet,Rain,Medium,25,35,60
+Drowsy,70,Dry,Clear,Low,30,30,55
+Drowsy,90,Wet,Rain,High,20,95,55
+Distracted,80,Dry,Clear,High,25,45,70
+Distracted,100,Wet,Heavy Rain,High,10,135,45
+Alert,50,Poor,Rain,Low,40,35,20
+Drowsy,60,Wet,Rain,Medium,15,80,25
+Distracted,70,Poor,Heavy Rain,High,10,135,20
+Alert,30,Dry,Clear,Low,50,0,30
+Drowsy,90,Poor,Heavy Rain,High,10,155,20
